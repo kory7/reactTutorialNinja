@@ -1,4 +1,5 @@
 const Navbar = () => {
+    const bgColor = "#f1356d";
     return(
         <nav className="navbar">
             <h1>The Dojo Blog</h1>
